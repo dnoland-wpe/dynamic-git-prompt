@@ -18,6 +18,7 @@ Your branch is up to date with 'origin/master'.
 [Mon Dec 17 08:28:55] david.noland-~/Documents/GitHub/scratch (master)>
 ```
 <h2>INSTRUCTIONS FOR CONFIGURATION</h2>
+
 1. Download file and place in user root directory as filename `.prompt.sh`
 2. Customize prompt as you wish in the `.prompt.sh` file, but do not modify the $git_branch variable
 3. Add the following line of code to the .bash_profile file:
