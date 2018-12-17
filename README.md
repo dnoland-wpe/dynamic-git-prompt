@@ -1,8 +1,8 @@
-<h1> INTRODUCTION
+<h1>INTRODUCTION</h1>
 
 This repo is a self generated script for creating a dynamic prompt that checks for your current working git repo and and writes the active branch to your prompt
 
-<h2> Example output:
+<h2>Example output:</h2>
 
 If not in a current git repo directory
 
