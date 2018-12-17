@@ -28,3 +28,9 @@ PROMPT_COMMAND="source ~/.prompt.sh 2>/dev/null"
 
 4. Execute `source ~/.bash_profile` to reinitialize the prompt
 5. Test by going into a git repo on your local machine and execute `git checkout <branch>` and observe the modification.  Execute `git checkout master` to return to the master branch of your repo.
+
+<h2>Credits:</h2>
+Author: David T. Noland
+
+<h2>Acknowledgements:</h2>
+Thanks to Jeffrey Crane for his valuable input.
