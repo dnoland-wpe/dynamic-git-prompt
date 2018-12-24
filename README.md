@@ -1,6 +1,6 @@
 <h1>INTRODUCTION</h1>
 
-This repo is a self generated script for creating a dynamic prompt that checks for your current working git repo and and writes the active branch to your prompt
+This repo is a self generated script for creating a dynamic prompt that checks for your current working git repo and and writes the active branch to your prompt.  <b>Note:</b> This assumes the use of a Linux based terminal shell and is explicitly designed for iTerm2 for Mac.  This should also work appropriately for any BASH terminal in a Linux environment.
 
 <h2>Example output:</h2>
 
