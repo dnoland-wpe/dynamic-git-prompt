@@ -15,7 +15,7 @@ If in a current git repo directory
 ```
 Switched to branch 'master'
 Your branch is up to date with 'origin/master'.
-12/16/22 9:45AM david.noland - dynamic-git-prompt (master) >
+12/16/2210:41AM david.noland - GitHub/dynamic-git-prompt/zsh (master) >
 ```
 <h2>INSTRUCTIONS FOR CONFIGURATION</h2>
 
